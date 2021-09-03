@@ -175,4 +175,4 @@ To push all of your commits to your GitHub repository, run `git push`. If you ru
 
 **How do you track the renaming of a file?**
 
-**What does the `.gitignore` file?**
+**What does the `.gitignore` file do?**
